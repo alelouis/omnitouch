@@ -42,7 +42,7 @@ function onValueChanged(key)
 	  note_codes = {
 	  52 + offset, 
 	  57 + offset,
-	  50+ offset,
+	  50 + offset,
 	  55 + offset,
 	  48 + offset,
 	  53 + offset,

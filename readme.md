@@ -26,7 +26,7 @@ The **third row** is used to trigger major/minor seventh chords, depending on wh
 
 ### Usage
 
-Download `omnitouch.osc` and import it in TouchOSC. As it uses multitouch, ensure you have a tactile screen or use a tablet.
+Download `omnitouch.tosc` and import it in TouchOSC. As it uses multitouch, ensure you have a tactile screen or use a tablet.
 
 **Make sure TouchOSC is linked to you TouchOSC bridge for midi forwarding.**
 
@@ -52,7 +52,7 @@ Also, you can choose the origin and/or ordering of the tonic notes.
   note_codes = {
   52 + offset, 
   57 + offset,
-  50+ offset,
+  50 + offset,
   55 + offset,
   48 + offset,
   53 + offset,
