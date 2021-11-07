@@ -6,8 +6,8 @@ Main differences are :
 - All 12 chords in circle of fifths order (instead of 9 on the original)
 - Only strumming mode
 
-The **first row** is used to trigger major chords, strum on the right for arpeggios.
-The **second row** is used to trigger minor chords, strum on the right for arpeggios.
+The **first row** is used to trigger major chords, strum on the right for arpeggios.  
+The **second row** is used to trigger minor chords, strum on the right for arpeggios.  
 The **third row** is used to trigger major/minor seventh chords, depending on what is chosen above.
 
 ### Demo
