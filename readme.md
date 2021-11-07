@@ -20,7 +20,7 @@ The **third row** is used to trigger major/minor seventh chords, depending on wh
 
 [OmniTouch | Demo - YouTube](https://youtu.be/4TTwVh1yVVE)
 
-![thumb.png](/Users/alelouis/Projects/omnitouch/demo/thumb.png)
+![thumb.png](./demo/thumb.png)
 
 *using TouchOSC for iOS, [protokol](https://hexler.net/protokol) for midi logging debug.*
 
