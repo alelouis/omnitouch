@@ -1,6 +1,6 @@
 ## OmniTouch
 
-OmniTouch is a custom instrument for [TouchOSC](https://hexler.net/touchosc) that replicates partially a [Suzuki Omnichord](https://en.wikipedia.org/wiki/Omnichord).
+OmniTouch is a custom instrument for [TouchOSC](https://hexler.net/touchosc) that replicates partially a [Suzuki Omnichord](https://en.wikipedia.org/wiki/Omnichord).  
 Main differences are :
 
 - All 12 chords in circle of fifths order (instead of 9 on the original)
