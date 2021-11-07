@@ -67,5 +67,5 @@ Also, you can choose the origin and/or ordering of the tonic notes.
 
 ### Dependencies
 
-`TouchOSC` [`touchosc`](https://hexler.net/touchosc) 
+`TouchOSC` [`touchosc`](https://hexler.net/touchosc)   
 `TouchOSC Bridge` [`touchosc-bridge`](https://hexler.net/touchosc/bridge-releases) 
